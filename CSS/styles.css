@@ -96,7 +96,7 @@
 	div.leftbox p{
 		color: #ffffff;
 		background-color: #009933;
-		font-size: 14px;
+		font-size: 15px;
 		padding: 25px;
 		width: 200px;
 		text-align: center;
@@ -121,7 +121,7 @@
 		transition: 0.3s;
 	}
 	div#content{
-		background-color: #ffffff;
+		background-color: transparent;
 		padding: 5px;
 	}
 	div#content div{
@@ -139,16 +139,15 @@
 	}
 	div#content div.rightbox{
 		background-color: #80ff80;
-		padding-bottom: 60px;
 	} 
 	div.rightbox h1{
-		font-size: 26px;
+		font-size: 18px;
 		color: #f50707;
 		text-align: center;
 		font-family: times new roman;
 	}
 	div.rightbox h2{
-		font-size: 15px;
+		font-size: 14px;
 		color: #000000;
 		text-align: justify;
 		font-family: times new roman;
@@ -157,7 +156,7 @@
 		padding-top: 0px;
 	}
 	div.rightbox h3{
-		font-size: 18px;
+		font-size: 15px;
 		color: #f50707;
 		text-align: justify;
 		font-family: times new roman;
@@ -166,7 +165,7 @@
 		padding-top: 0px;
 	}
 	div.rightbox h4{
-		font-size: 19px;
+		font-size: 15px;
 		color: #000000;
 		text-align: center;
 		font-family: times new roman;
@@ -176,7 +175,8 @@
 	/*le pied de page*/
 	footer{
 		background-color:  #009933;
+		width: 100%;
+		padding: 50px;
 		font-family: times new roman;
 		text-align: center;
 	}
-
