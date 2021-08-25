@@ -42,7 +42,6 @@
 	body header p{
 		color: #00cc99;
 	}
-
 	ul li.bern{
 		display: inline-block;
 		list-style-type: none;
@@ -123,10 +122,12 @@
 	div#content{
 		background-color: transparent;
 		padding: 5px;
+		border-radius: 6px;
 	}
 	div#content div{
 		display: inline-block;
 		width: 49.5%;
+		border-radius: 6px;
 	}
 	div#content div.leftbox{
 		background-color: #ff6666;
@@ -179,4 +180,5 @@
 		padding: 50px;
 		font-family: times new roman;
 		text-align: center;
+		border-radius: 6px;
 	}
