@@ -97,7 +97,7 @@
 
 	div.leftbox p{
 		color: #ffffff;
-		background-color: #034F05;
+		background-color: #09A732;
 		font-size: 15px;
 		padding: 25px;
 		width: 200px;
@@ -119,7 +119,7 @@
 		padding-bottom: 0px;
 	}
 	div.leftbox:hover p{
-		background-color: #07A50B;
+		background-color: #034f05;
 		transition: 0.3s;
 	}
 	div#content{
@@ -178,7 +178,7 @@
 
 	/*le pied de page*/
 	footer{
-		background-color:  #034F05;
+		background-color:  #09A732;
 		width: 100%;
 		padding: 50px;
 		font-family: times new roman;
