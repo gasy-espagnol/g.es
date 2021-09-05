@@ -28,6 +28,10 @@
 	    width: 100%;
 	    height: auto;
 	}
+	body {
+    		min-width: 1000px;
+	}
+	
 
 	body header img{
 		padding-left: 35px; 
