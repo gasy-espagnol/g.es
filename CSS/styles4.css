@@ -42,6 +42,9 @@
 	body header p{
 		color: #00cc99;
 	}
+	body {
+    		min-width: 1000px;
+	}
 
 	ul li.bern{
 		display: inline-block;
