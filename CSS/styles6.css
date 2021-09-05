@@ -32,6 +32,9 @@
 	body header img{
 		padding-left: 35px; 
 	}
+	body {
+    		min-width: 1000px;
+	}
 
 	body header p{
 	    font-size: 50px;
